@@ -17,8 +17,7 @@ Eine Thunderbird Aufgabe (Task) um 2 Tage oder 2 Wochen aufschieben
 
 # Quickstart
 
-download [ThunderbirdTasksPlus2.xpi](https://github.com/gjpapa59-png/ThunderbirdTasksPlus2/blob/main/ThunderbirdTasksPlus2.xpi)
-installiere das Addon in Thunderbird
+download [ThunderbirdTasksPlus2.xpi](https://github.com/gjpapa59-png/ThunderbirdTasksPlus2/blob/main/ThunderbirdTasksPlus2.xpi) und installiere das Addon in Thunderbird
 
 # Installation
 
