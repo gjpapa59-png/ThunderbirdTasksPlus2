@@ -4,7 +4,7 @@
 ### **<font color="#0070c0">ThunderbirdTasksPlus2</font>**
 
 # Beschreibung
-Eine Thunderbird Aufgabe (Task) um2 Tage oder 2 Wochen aufschieben
+Eine Thunderbird Aufgabe (Task) um 2 Tage oder 2 Wochen aufschieben
 
 1. Problemstellung
     - eine Aufgabe über das Kontext Menü mit **einem** Klick um 2 Tage bzw. 2 Wochen aufschieben 
@@ -14,9 +14,6 @@ Eine Thunderbird Aufgabe (Task) um2 Tage oder 2 Wochen aufschieben
 # Verwendete Technologien
 - Javascript
 - Thunderbird .xpi Framework
-
-Das hilft anderen, schnell zu verstehen, womit die Software entwickelt wurde. 
-Verlinke außerdem an dieser Stelle die ausführliche Dokumentation.
 
 # Quickstart
 
