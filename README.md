@@ -19,7 +19,7 @@ Verlinke außerdem an dieser Stelle die ausführliche Dokumentation.
 
 # Quickstart
 
-download [ThunderbirdTasksPlus2.xpi](ThunderbirdTasksPlus2.xpi)
+download [ThunderbirdTasksPlus2.xpi](https://github.com/gjpapa59-png/ThunderbirdTasksPlus2/blob/main/ThunderbirdTasksPlus2.xpi)
 installiere das Addon in Thunderbird
 
 # Installation
