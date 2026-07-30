@@ -4,12 +4,12 @@
 ### **<font color="#0070c0">ThunderbirdTasksPlus2</font>**
 
 # Beschreibung
-Eine Thunderbird Aufgabe (Task) um 2 Tage oder 2 Wochen aufschieben
+Eine Thunderbird Aufgabe (Task) um 2 Tage oder 2 Wochen oder bis zum Monatsletzten aufschieben
 
 1. Problemstellung
-    - eine Aufgabe über das Kontext Menü mit **einem** Klick um 2 Tage bzw. 2 Wochen aufschieben 
+    - eine Aufgabe über das Kontext Menü mit **einem** Klick um 2 Tage bzw. 2 Wochen oder bis zum Monatsletzten aufschieben 
 2. Funktionsweise
-		Die Erweiterung prüft Popup-Anzeigen darauf, ob es sich um das Aufschieben-Untermenü handelt und fügt dann die Menüpunkte "2 Tage" bzw. "2 Wochen" hinzu. Bei entsprechendem Klick werden das Von- und das Bis-Datum der Aufgabe entsprechend gesetzt.
+		Die Erweiterung prüft Popup-Anzeigen darauf, ob es sich um das Aufschieben-Untermenü handelt und fügt dann die Menüpunkte "2 Tage" bzw. "2 Wochen" bzw. "Ultimo" hinzu. Bei entsprechendem Klick werden das Von- und das Bis-Datum der Aufgabe entsprechend gesetzt.
 
 # Verwendete Technologien
 - Javascript
