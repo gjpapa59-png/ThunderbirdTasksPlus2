@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Thunderbird Aufgaben um 2 Tage, 2 Wochen aufschieben",
-  "version": "1.0",
+  "name": "Thunderbird Aufgaben um 2 Tage, Wochen, auf Ultimo aufschieben",
+  "version": "1.0.1",
   "applications": {
     "gecko": {
       "id": "postpone-2days@local",
