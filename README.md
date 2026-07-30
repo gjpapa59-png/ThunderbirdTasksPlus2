@@ -1,7 +1,7 @@
-# ThunderbirdTaskasPlus2
+# ThunderbirdTasksPlus2
 ![Thunderbird Aufgabe Kontextmenue](ThunderbirdTasksPlus2.png)
 # Projektname
-### **<font color="#0070c0">ThunderbirdTaskasPlus2</font>**
+### **<font color="#0070c0">ThunderbirdTasksPlus2</font>**
 
 # Beschreibung
 Eine Thunderbird Aufgabe (Task) um2 Tage oder 2 Wochen aufschieben
