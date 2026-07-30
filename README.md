@@ -1,5 +1,6 @@
 # ThunderbirdTasksPlus2
-![Thunderbird Aufgabe Kontextmenue](ThunderbirdTasksPlus2.png)
+
+
 # Projektname
 ### **<font color="#0070c0">ThunderbirdTasksPlus2</font>**
 
