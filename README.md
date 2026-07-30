@@ -41,4 +41,4 @@ Derzeit sind keine Fehler oder Probleme bekannt. Fehler können über die Issue-
 # Lizenz
 
 Dieses Projekt steht unter der [
-MIT-Lizenz](./LICENSE.md).
+MIT-Lizenz](LICENSE.md).
