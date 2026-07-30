@@ -1,8 +1,9 @@
-# ThunderbirdTasksPlus2
-
-Thunderbird Aufgaben mit einem Klick um 2 Tage bzw. 2 Wochen aufschieben
 ![[./ThunderbirdTasksPlus2.png]]
+# Projektname
+### **<font color="#0070c0">ThunderbirdTaskasPlus2</font>**
 
+# Beschreibung
+Eine Thunderbird Aufgabe (Task) um2 Tage oder 2 Wochen aufschieben
 
 1. Problemstellung
     - eine Aufgabe über das Kontext Menü mit **einem** Klick um 2 Tage bzw. 2 Wochen aufschieben 
@@ -43,4 +44,4 @@ Derzeit sind keine Fehler oder Probleme bekannt. Fehler können über die Issue-
 # Lizenz
 
 Dieses Projekt steht unter der [
-MIT-Lizenz](./LICENSE).
+MIT-Lizenz](./LICENSE.md).

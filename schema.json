@@ -1,0 +1,12 @@
+[
+  {
+    "namespace": "calendar_menu_experiment",
+    "functions": [
+      {
+        "name": "initMenu",
+        "type": "function",
+        "parameters": []
+      }
+    ]
+  }
+]
